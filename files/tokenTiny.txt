@@ -1,0 +1,76 @@
+//
+/* comment */
+auto
+new
+true
+false
+break
+bool
+case
+char
+const
+continue
+default
+do
+double
+else
+enum
+extern
+float
+for
+goto
+if
+int
+long
+register
+return
+short
+signed
+sizeof
+static
+struct
+switch
+typedef
+union
+unsigned
+void
+volatile
+while
+ERROR - ID can’t start with num
+Any valid identifier(Note: ID can’t start with num)
+30486.184 ,1203.03 ,0.0
+0, 1, 1218, 12482
+”bla bla“
+’a’ , ‘z‘
+}
+{
+]
+[
+)
+(
+,
+;
+.
+!
+#
+\
+-
++
+*
+/
+%
+>>
+<<
+>=
+<=
+==
+!=
+=
+&&
+||
+&
+|
+^
+>
+<
+~
